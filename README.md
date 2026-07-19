@@ -118,7 +118,7 @@ Flask/
 ---
 
 
----
+
 
 ## 📌 Key Insights
 
@@ -129,6 +129,22 @@ Flask/
 - Most houses fall within the mid-price range, while a smaller number of luxury houses create a right-skewed distribution.
 
 ---
+
+## Dashboard Preview
+
+![Dashboard](Tableau/Dashboard.png)
+
+## Story Preview
+
+![Story](Tableau/Story1.png)
+
+![Story](Tableau/Story2.png)
+
+![Story](Tableau/Story3.png)
+
+![Story](Tableau/Story4.png)
+
+![Story](Tableau/Story5.png)
 
 ## 🔮 Future Enhancements
 
